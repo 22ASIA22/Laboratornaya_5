@@ -1,0 +1,4 @@
+id name x y creationDate salary position status employeesCount organizationType
+1 Naruto 1 1 01.01.2001 1111 MANAGER FIRED 11 COMMERCIAL
+2 Sasuke 2 2 02.02.2002 2222 DEVELOPER HIRED 22 PUBLIC
+3 Sakura 3 3 03.03.2003 3333 BAKER RECOMMENDED_FOR_PROMOTION 33 TRUST
